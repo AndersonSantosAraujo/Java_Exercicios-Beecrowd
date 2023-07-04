@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BC1106 {
+public class BC1006 {
   public static void main(String args[]) {
     Scanner input = new Scanner(System.in);
 
